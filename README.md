@@ -1,5 +1,3 @@
-# Sendo totalmente sincero todo o conteudo abaixo foi feito utilizando chatgpt para me ajudar a estruturar o arquivo readme :)
-
 # 🚀 Aplicação Java Spring Boot com MongoDB, Redis e RabbitMQ
 
 Seja bem-vindo! Este projeto é uma aplicação Java baseada em **Spring Boot**, que utiliza uma arquitetura moderna incorporando as tecnologias abaixo:
@@ -8,7 +6,7 @@ Seja bem-vindo! Este projeto é uma aplicação Java baseada em **Spring Boot**,
 - 🍃 **Spring Data MongoDB**
 - 📦 **RabbitMQ** (com gestão UI)
 - 🔥 **Redis** para caching
-- 💻 **Java SDK 24 (LTS)** ⚠️
+- 💻 **Java SDK 21 (LTS)** ⚠️
 - 🐋 **Docker & Docker Compose** para orquestração e execução
 
 ---
