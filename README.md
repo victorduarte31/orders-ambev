@@ -41,8 +41,8 @@ Seja bem-vindo! Este projeto é uma aplicação Java baseada em **Spring Boot**,
 ### 1. Clone este repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd nome-da-sua-aplicacao
+git clone https://github.com/victorduarte31/orders-ambev.git
+cd orders-ambev
 ```
 
 ### 2. Rodando com Docker Compose (Recomendado)
